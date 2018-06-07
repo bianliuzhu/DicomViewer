@@ -48,7 +48,7 @@ export default {
   name: 'dwv',
   data: function () {
     return {
-      legend: 'Powered by dwv ' + dwv.getVersion() + ' and Vue.js ' + Vue.version,
+      legend:  dwv.getVersion() ,
       dwvApp: null,
       loaded: 0
     }
