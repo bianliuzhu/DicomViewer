@@ -2,6 +2,8 @@
 
 DicomViewer be based on [DWV](https://github.com/ivmartel/dwv) (DICOM Web Viewer) and [Vue.js](https://vuejs.org/).
 
+* 小伙伴们 这个项目没有 node_modules 需要自己 安装依赖 看下面有安装方法!
+
 ## 使用方法
 
 ``` bash
