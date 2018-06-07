@@ -32,12 +32,15 @@ yarn run test
 * 2.在项目最外层 目录 打开 命令行 输入 yarn install 安装依赖后
 
 * 3.启动项目 yarn run start
+
   ![示例图片](https://raw.githubusercontent.com/bianliuzhu/Image/master/DicomViewer0.jpg)
 
 * 4.项目 跑起来后 将本地的 Dicom File 拖入 页面的虚线框就可以看到图像了
+
   ![示例图片](https://raw.githubusercontent.com/bianliuzhu/Image/master/DicomViewer1.jpg)
 
 * 5.这是最终效果
+
   ![示例图片](https://raw.githubusercontent.com/bianliuzhu/Image/master/DicomViewer.jpg)
 
 # 想添加什么 tools 自己研究吧
