@@ -8,7 +8,7 @@ DicomViewer be based on [DWV](https://github.com/ivmartel/dwv) (DICOM Web Viewer
 # 安装依赖
 yarn install
 
-# 启动项目 在本地主机上加热装:8080
+# 启动项目 在本地主机上热加载:8080
 yarn run start
 
 # 将项目打包 用生产环境 (服务器)
